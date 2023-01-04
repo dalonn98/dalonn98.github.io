@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Jongmin Lee
+title: Cloud Engineer
+email: dalonn98@gmail.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
